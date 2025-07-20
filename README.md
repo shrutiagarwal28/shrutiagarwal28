@@ -10,16 +10,6 @@ It’s like having an expert sitting right beside you, answering all your questi
 
 ---
 
-## 💻 What do I do?
-
-I’m a **Software Development Engineer at JPMorgan**, building products within the Corporate Tech org.  
-Previously, I worked at **Grubhub** on the **Search team** — improving how people find what they need (and probably what they’re craving 🍕).
-
-I ship full-cycle features — from frontend to backend APIs, CI/CD integrations, AWS deployments, and infrastructure with Terraform.  
-Yes, I **dev**, **test**, **deploy**, and **DevOps**. 🚀
-
----
-
 ## 🤝 Why connect?
 
 Join me on my very human journey of transitioning from traditional full-stack to the new **AI-driven world**.  
