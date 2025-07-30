@@ -6,7 +6,7 @@ I’m diving head-first into this shift, partly to avoid becoming obsolete and m
 It’s like having an expert sitting right beside you, answering all your questions — *without making you feel stupid*.
 
 As a **Software Development Engineer**, I ship full-cycle features — from frontend to backend APIs, CI/CD integrations, AWS deployments, and infrastructure with Terraform.  
-Yes, I **dev**, **test**, **deploy**, and **DevOps**. 🚀
+Yes, I **prompt**, **dev**, **test**, **deploy**, and **DevOps**. 🚀
 
 ---
 
