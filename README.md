@@ -1,16 +1,27 @@
-# 👋 Hi, I'm Shruti!
+# Shruti Agarwal
 
-I’m a human on Earth 🌍 trying to make this world a better place for animals and other humans — by leveraging my engineering skills wherever I can. My journey has taken me through medicine, electronics, full-stack development, and now — into the fascinating world of AI.  
+Senior backend engineer. I build distributed systems by day, ship side projects by night, and write about both.
 
-I’m diving head-first into this shift, partly to avoid becoming obsolete and mostly because it’s absolutely **mind-blowing**!  
-It’s like having an expert sitting right beside you, answering all your questions — *without making you feel stupid*.
+### What I work on
+- **Infrastructure & platforms:** AWS, Kubernetes, Terraform, Kafka, Airflow. Cloud migrations, autoscaling, data pipelines at scale.
+- **AI in production:** RAG systems, agentic workflows, MCP servers, LLM serving. Currently exploring the infra layer underneath modern AI stacks.
+- **Languages:** Java and Python daily. TypeScript and Go when the project calls for it.
 
-As a **Software Development Engineer**, I ship full-cycle features — from frontend to backend APIs, CI/CD integrations, AWS deployments, and infrastructure with Terraform.  
-Yes, I **prompt**, **dev**, **test**, **deploy**, and **DevOps**. 🚀
+### Recent builds
+- 🏠 **[MyVaastu](#)** — CV-powered floor plan analysis. React, Vite, LLaMA 3.2 Vision via Groq.
+- 👕 **[MyFits](#)** — agentic outfit stylist. Multi-step LLM reasoning over a personal wardrobe graph.
+- 🗄️ **[Cabinet Sorter](#)** — photo-to-layout pantry organizer with CV item detection.
+- 🔌 **MCP server @ JPMC** — connected GitHub Copilot to Airflow. Cut common workflows from 15 min to under 1.
+
+### Writing
+I write [imshruti.substack.com](https://imshruti.substack.com) — AI concepts explained for backend engineers. Systems thinking, applied to the AI stack.
+
+### Open source & contributions
+Currently contributing to: *(fill in)*
+Building in public: every project here ships with a writeup.
+
+### Find me
+[imshruti.com](https://imshruti.com) · [Substack](https://imshruti.substack.com) · [LinkedIn](#)
 
 ---
-
-Join me on my very human journey of transitioning from traditional full-stack to the new **AI-driven world**.  
-Expect transparency, learnings, triumphs, and plenty of relatable missteps — because embracing new tech doesn’t have to be intimidating or perfect.
-
-**Let’s figure it out together!**
+*Always shipping. Always learning. Repos below are where the experiments live.*
