@@ -3,7 +3,7 @@
 Senior backend engineer. I build distributed systems by day, ship side projects by night, and write about both.
 
 ### What I work on
-- **Infrastructure & platforms:** AWS, Kubernetes, Terraform,  Kafka, Airflow. Cloud migrations, autoscaling, data pipelines at scale.
+- **Infrastructure & platforms:** AWS,  Kubernetes, Terraform,  Kafka, Airflow. Cloud migrations, autoscaling, data pipelines at scale.
 - **AI in production:** RAG systems, agentic workflows, MCP servers, LLM serving. Currently exploring the infra layer underneath modern AI stacks.
 - **Languages:** Java and Python daily. TypeScript and Go when the project calls for it.
 
