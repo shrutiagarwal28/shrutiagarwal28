@@ -1,6 +1,6 @@
 # Shruti Agarwal
 
-Senior backend engineer. I build distributed systems by day, ship side projects by night, and write about both.
+Senior backend engineer. I build distributed systems by the day, ship side projects by night, and write about both.
 
 ### What I work on
 - **Infrastructure & platforms:** AWS,  Kubernetes, Terraform,  Kafka, Airflow. Cloud migrations, autoscaling, data pipelines at scale.
